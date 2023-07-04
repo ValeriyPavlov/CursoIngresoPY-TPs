@@ -13,16 +13,16 @@ Enunciado:
 El departamento de Construcción Rural requiere una herramienta que facilite el calculo de materiales necesarios 
 a la hora de realizar un alambrado perimetral, se le solicita al usuario que ingrese el ancho y el largo del terreno.
 
-    A. Informar los metros cuadrados del terreno y los metros lineales del perimetro
-    B. Informar la cantidad de postes de quebracho Grueso de 2.4 mts (van cada 250 mts lineales y en las esquinas).
-    C. Informar la cantidad de postes de quebracho Fino de 2.2 mts (van cada 12 mts lineales, si en es lugar no se encuentra el poste grueso).
+    A. Informar el perimetro y el area del terreno.
+    B. Informar la cantidad de postes de quebracho Grueso (van cada 250 mts lineales y en las esquinas).
+    C. Informar la cantidad de postes de quebracho Fino (van cada 12 mts lineales).
     D. Informar la cantidad de varillas (van cada 2 mts lineales).
-    E. Informar la cantidad de alambre alta resistencia 17/15 considerando 7 hilos.
+    E. Informar la cantidad de metros de alambre necesarios para rodear el perimetro con 7 hilos de alambre.
 
     EJ 36 MTS X 24 MTS 
-    (G)Poste Quebracho Grueso de 2.4 mts
-    (V)Poste Quebracho Fino de 2.2 mts
-    (F)Varillas
+    (G)Poste Quebracho Grueso
+    (F)Poste Quebracho Fino
+    (V)Varillas
     
     G V V V V V F V V V V V F V V V V V G
     V                                   V
